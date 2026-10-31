@@ -1,4 +1,4 @@
-<!-- To update this page (new project, new role, new numbers), use the templates in UPDATING.md -->
+
 
 <h1 align="center">Abdulakeem Seun Agbaje</h1>
 <h3 align="center">Lead Software Engineer · Java · Python · TypeScript<br>Multi-tenant SaaS · Payments · Production AI</h3>
@@ -149,7 +149,7 @@
 - Multi-tenant laundry SaaS with custom domains, wallets with a ledger, prorated upgrades and tenant payouts.
 - An AI service for garment classification and quality inspection.
 
-<!-- NEW PROJECT: copy the "Project card" template from UPDATING.md and paste it at the right position above (most impressive first) -->
+
 
 ---
 
@@ -191,7 +191,7 @@ These are habits I've used on every project above, and I can bring them to any t
 ## What I'm learning now
 Deepening AI and ML engineering in public: LLM evaluation, agents, production AI and model serving, plus the maths and ML fundamentals underneath. I share what I build on [X](https://x.com/awosome_dev) and [LinkedIn](https://linkedin.com/in/agbaje-abdulakeem-seun).
 
-<!-- Update this line when you finish a track or ship something new (template in UPDATING.md) -->
+
 
 ---
 

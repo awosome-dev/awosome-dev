@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://acallence.com">acallence.com</a> ·
   <a href="https://linkedin.com/in/agbaje-abdulakeem-seun">LinkedIn</a> ·
-  <a href="https://x.com/Agbaje_iKKim">X</a> ·
+  <a href="https://x.com/awosome_dev">X</a> ·
   agbajeabdulakeemseun@gmail.com
 </p>
 

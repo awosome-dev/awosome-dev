@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  👋 Hello, wherever you're reading this from. I build software that real organisations depend on, and I'm open to working with teams anywhere in the world.
+  Hello, wherever you're reading this from. I build software that real organisations depend on, and I'm open to working with teams anywhere in the world.
 </p>
 
 ---
